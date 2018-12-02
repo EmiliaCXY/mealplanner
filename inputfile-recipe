@@ -1,0 +1,133 @@
+!
+eggs:4.0:NULL:
+milk:0.25:CUP:
+salt:0.0:SOME:
+pepper:0.0:SOME:
+butter:2.0:TEASPOON:
+?
+1: Beat eggs, milk, salt and pepper in medium bowl until blended:
+2: Heat butter in large nonstick skillet over medium heat until hot:
+3: Pour in egg mixture:
+4: As eggs begin to set, gently pour the eggs across the pan with a spatula, forming large soft curds:
+5: Continue cooking – until thickened and no visible liquid egg remains:
+=
+Scrambled Eggs:5:192.0:Default:
+
+!
+2% yogurt:2.0:CUP:
+ricotta cheese:2.0:CUP:
+graham cracker crumbs:2.0:CUP:
+finely grated lemon zest:2.0:TEASPOON:
+salt:0.25:TEASPOON:
+unsalted butter:0.5:CUP:
+yogurt cheese:1.0:NULL:
+honey:0.25:CUP:
+egg:1.0:NULL:
+vanilla extract:1.0:TEASPOON:
+mango:1.5:CUP:
+?
+1:Prepare yogurt “cheese” a day before needed:
+2:Stir yogurt and ricotta together and place in a cheese cloth (or large paper coffee filter) in a strainer:
+3:Place strainer over a bowl, wrap loosely with plastic wrap and chill for 24 hours:
+4:Discard whey (liquid in bowl), and refrigerate yogurt cheese until ready to use:
+5:Preheat oven to 325 F:
+6:Combine graham cracker crumbs, lemon zest, salt and melted butter and press into an ungreased 9-inch (22 cm) pie plate:
+7:Bake for 10 minutes, then cool while preparing filling:
+8:For filling, stir yogurt cheese with honey, egg, lemon zest and vanilla:
+9:Spoon into cooled pie shell and bake for 30 minutes:
+10:Cool to room temperature, then chill at least 4 hours before serving:
+11:Top with diced mango immediately before slicing:
+=
+Honey Yogurt Cheesecake:60:1000.0:Default:
+
+!
+all purpose flour:1.5:CUP:
+baking powder:2.0:TEASPOON:
+baking soda:0.25:TEASPOON:
+rolled oats:0.75:CUP:
+sugar:0.67:CUP:
+cinnamon:2.0:TEASPOON:
+salt:1.0:TEASPOON:
+egg:2.0:NULL:
+milk:0.33:CUP:
+flavorless oil:0.25:CUP:
+vanilla extract:1.5:TEASPOON:
+banana:3.0:NULL:
+?
+1:Preheat your oven to 350oF:
+2:Prepare a 9x5 loaf pan with parchment paper:
+3:Combine your dry ingredients -- flour, baking soda, baking powder, oats, sugar, cinnamon and salt:
+4:Combine your wet ingredients -- eggs, milk, oil, vanilla and mashed bananas:
+5:Pour the dry ingredients into the bowl with the wet ingredients:
+6:Mix by hand just until combined:
+7:Pour the banana bread batter into the pan and bake for 55 minutes:
+=
+Banana Bread:75:600.0:Default:
+
+!
+all purpose flour:6:CUP:
+eggs:7:NULL:
+water:1:CUP:
+olive oil:2:TEASPOON:
+crushed tomato:28:OZ:
+tomato puree:1:CUP:
+tomato paste:0.33:CUP:
+sugar:3:TABLESPOON:
+minced fresh basil:2:TABLESPOON:
+minced fresh parsley:1:TABLESPOON:
+minced fresh oregano:1:TABLESPOON:
+minced garlic clove:1:NULL:
+ricotta cheese:15:OZ:
+shredded mozzarella cheese:2:CUP:
+garlic powder:0.25:TEASPOON:
+salt:0.125:TEASPOON:
+pepper:0.125:TEASPOON:
+?
+1:Place 6 cups flour in a large bowl. Make a well in the center. Beat the eggs, water and oil; pour into well. Stir together, forming a ball. Turn onto a floured surface; knead until smooth and elastic, about 8-10 minutes, adding remaining flour if necessary to keep dough from sticking. Cover and let rest for 30 minutes.:
+2:In a Dutch oven, combine the sauce ingredients. Bring to a boil. Reduce heat; cover and simmer for 1 hour, stirring occasionally.:
+3:In a large bowl, combine the filling ingredients. Cover and refrigerate until ready to use.:
+4:Divide pasta dough into fourths; roll one portion to 1/16-in. thickness. (Keep pasta covered until ready to use.) Working quickly, place rounded teaspoonfuls of filling 1 in. apart over half of pasta sheet. Brush around filling with water to moisten. Fold sheet over; press down to seal. Cut into squares with a pastry wheel. Repeat with remaining dough and filling.:
+5:Bring a soup kettle of salted water to a boil. Add ravioli. Reduce heat to a gentle simmer; cook for 1-2 minutes or until ravioli float to the top and are tender. Drain. Spoon sauce over ravioli.:
+=
+Ravioli:120:901.0:Default:
+
+!
+Ravioli:25:OZ:
+beef:1:POUND:
+spaghetti sauce:28:OZ:
+mozzarella cheese:1:CUP:
+minced fresh basil:0:SOME:
+?
+1:In a large skillet, cook beef over medium heat until no longer pink; drain. In a greased 2-1/2-qt. baking dish, layer a third of the spaghetti sauce, half of the ravioli and beef, and 1/2 cup cheese; repeat layers. Top with remaining sauce and cheese.:
+2:Cover and bake at 400° for 40-45 minutes or until heated through. If desired, top with basil to serve.:
+=
+Ravioli Lasagna:65:438.0:Default:
+
+!
+oats:1:CUP:
+milk:0.75:CUP:
+plain yogurt:0.75:CUP:
+honey:0.25:CUP:
+thawed cherries:1:CUP:
+chopped walnuts:0.5:CUP:
+?
+1:In a small bowl, combine oats, milk, yogurt and honey. Refrigerate, covered, overnight.:
+2:Top each serving with cherries, blueberries and walnuts.:
+=
+Summertime Oatmeal:10:350:User:
+
+!
+cream cheese:3:OZ:
+mayonnaise:0.75:CUP:
+mozzarella cheese:1:CUP:
+cheddar cheese:1:CUP:
+garlic powder:0.5:TEASPOON:
+salt:0.125:TEASPOON:
+Italian white bread:10:SLICE:
+butter:2:TABLESPOON:
+?
+1:In a large bowl, beat cream cheese and mayonnaise until smooth. Stir in the cheeses, garlic powder and seasoned salt. Spread five slices of bread with the cheese mixture, about 1/3 cup on each. Top with remaining bread.:
+2:Butter the outsides of sandwiches. In a skillet over medium heat, toast sandwiches for 4-5 minutes on each side or until bread is lightly browned and cheese is melted.:
+=
+Grill Cheese:15:646:User:
+
